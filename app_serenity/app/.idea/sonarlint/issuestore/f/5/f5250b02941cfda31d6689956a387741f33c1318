@@ -1,0 +1,45 @@
+
+y
+java:S1144Å"0Remove this unused private "swipeAction" method.(î”û—ÿÿÿÿÿ8ãÌü‹2J$cc5a129f-7cac-49f3-80e3-642386797d21
+z
+java:S1144Ò"1Remove this unused private "tapCloseArea" method.(—¸È¢ûÿÿÿÿ8äÌü‹2J$6fd2b728-cd5d-474f-94b4-89f941153038
+z
+java:S6126<"2Replace this String concatenation with Text block.(–…ÆÃıÿÿÿÿ8äÌü‹2J$9dc67fdb-29db-445d-a2ad-576fedf81e08
+u
+java:S6126A"2Replace this String concatenation with Text block.(ÖÀ™8äÌü‹2J$bdb501aa-f406-4050-a1d0-2c97f606507b
+z
+java:S6126G"2Replace this String concatenation with Text block.(°¿Ìÿÿÿÿÿ8äÌü‹2J$b4f97054-2b48-410d-8861-6beedcd77814
+z
+java:S6126M"2Replace this String concatenation with Text block.(î®…Êüÿÿÿÿ8äÌü‹2J$d5e6a66b-7214-4844-9c23-eb76701af548
+u
+java:S6126R"2Replace this String concatenation with Text block.(¶ê¼¶8äÌü‹2J$d0d60ec2-7c0b-4bcf-bd55-4fcdd84d35a6
+z
+java:S6126X"2Replace this String concatenation with Text block.(à±Òïøÿÿÿÿ8äÌü‹2J$85750e08-bc4f-4efe-80b2-731342e7c70c
+e
+java:S6205¹"Remove this redundant block.(ò÷Ñäÿÿÿÿÿ8éÌü‹2J$a2b8967f-a9c2-4200-b93f-16a0e7ab9274
+e
+java:S6205¼"Remove this redundant block.(€ø¥ÿÿÿÿÿ8éÌü‹2J$2e2ef51b-cb48-4d48-a15f-b3cd33acdc62
+`
+java:S6205¿"Remove this redundant block.(ÁŸò8éÌü‹2J$37968b20-6561-4431-98cf-19679ce3c13c
+`
+java:S6205Â"Remove this redundant block.(üØô8êÌü‹2J$a66452a5-218b-4d5c-a22f-37e42d127b9a
+a
+java:S2119Ñ"Save and re-use this "Random".(¼İÅf8êÌü‹2J$f9d1ff16-29a1-4556-8d56-92e7e82e31b2
+…
+java:S3252×"<Use static access with "org.openqa.selenium.By" for "xpath".(úéèÿÿÿÿÿ8ìÌü‹2J$872e5e53-4240-4580-a552-304a99376be2
+„	java:S125“"<This block of commented-out lines of code should be removed.(º‰á†ıÿÿÿÿ8îÌü‹2J$a1ef2c2a-38e7-40ee-a65a-6f44a771d5d4
+„	java:S125–"<This block of commented-out lines of code should be removed.(º‰á†ıÿÿÿÿ8îÌü‹2J$604a6bb0-ead8-44b2-abd5-7cce16f4fed9
+n	java:S106§"+Replace this use of System.out by a logger.(×¾”Û8ïÌü‹2J$43af970f-4aab-44af-b17b-e600340451cc
+~	java:S125¬"<This block of commented-out lines of code should be removed.(ÚÙb8ïÌü‹2J$67d14342-3569-43b2-acb3-45867dc95808
+v
+java:S6126Á"2Replace this String concatenation with Text block.(İƒŒ¤8ñÌü‹2J$12206834-5ac8-47f1-99db-1cb507f894fa
+‰
+java:S4738Ç"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(‹¼­ÿÿÿÿÿ8ñÌü‹2J$9c4bc986-12a7-4db9-9ae6-a25231b9c019
+|
+java:S1874×"3Remove this use of "TouchAction"; it is deprecated.(ë‹ö·ÿÿÿÿÿ8ñÌü‹2J$0702403e-56cc-489e-bec9-e1b128f4871e
+|
+java:S1874×"3Remove this use of "TouchAction"; it is deprecated.(ë‹ö·ÿÿÿÿÿ8ñÌü‹2J$22da4030-687c-432f-aaf0-9ef8d8247878
+€
+java:S1905×"7Remove this unnecessary cast to "PerformsTouchActions".(ë‹ö·ÿÿÿÿÿ8òÌü‹2J$2ee6a459-1806-4ecf-9ac1-3035de5468eb
+…
+java:S1874×"<Remove this use of "PerformsTouchActions"; it is deprecated.(ë‹ö·ÿÿÿÿÿ8òÌü‹2J$d961f801-97b4-4f08-99ea-822532570a99

@@ -1,0 +1,20 @@
+pipeline {
+  agent any
+  tools {
+    nodejs 'node 18.17'
+  }
+ 
+  stages {
+    stage('Instalar dependencias') {
+      steps {
+        sh 'npm ci -force'
+      }
+    }
+    stage('Ejecutar pruebas') {
+      steps {
+        sh "echo npx playwright test tests/cinemark_buy_ticket.spec.ts --project=Chrome --headed --max-failures=1"
+        sh "npx playwright test tests/cinemark_buy_ticket.spec.ts  --project=Chrome --headed --max-failures=1"
+      }
+    }
+  }
+}
